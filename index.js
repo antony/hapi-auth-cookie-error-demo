@@ -19,17 +19,11 @@ const internals = {
             {
                 plugin: {
                     register: './foo'
-                },
-                options: {
-                    select: ['foo']
                 }
             },
             {
                 plugin: {
                     register: './bar'
-                },
-                options: {
-                    select: ['bar']
                 }
             }
         ]
